@@ -1,1 +1,2 @@
-# fun-with-imap
+# Fun with IMAP
+Just some F# code playing with IMAP
